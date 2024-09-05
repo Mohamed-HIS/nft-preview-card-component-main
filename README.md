@@ -2,7 +2,7 @@
 
 ## Demo:
 
-https://github.com/muhammmed-s/nft-preview-card-component-main.git
+https://mohamed-his.github.io/nft-preview-card-component-main/
 
 # Features:
 
